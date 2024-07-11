@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Makelog started: 2024-07-10 18:28:41
+Makelog started: 2024-07-11 13:50:12
 Working directory: /Users/kiefer/Documents/Levi-practice-task/paper_slides
 --------------------------------------------------------------------------------
 Input copies successfully created!
@@ -7,7 +7,6 @@ External copies successfully created!
 Source logs successfully written!
 WARNING! The following target files have been modified according to git status:
 /Users/kiefer/Documents/Levi-practice-task/data/output/chips_sold.pdf
-/Users/kiefer/Documents/Levi-practice-task/analysis/output/regression.csv
 Version logs successfully written!
 Executing command: `pdflatex -output-directory=../latex_auxiliary_dir  "/Users/kiefer/Documents/Levi-practice-task/paper_slides/code/paper.tex"`
 This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex)
@@ -147,7 +146,7 @@ xmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2024/texmf-dist/fo
 nts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/
 urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on ../latex_auxiliary_dir/paper.pdf (6 pages, 52502 bytes).
+Output written on ../latex_auxiliary_dir/paper.pdf (6 pages, 52717 bytes).
 Transcript written on ../latex_auxiliary_dir/paper.log.
 
 Executing command: `pdflatex -output-directory=../latex_auxiliary_dir  "/Users/kiefer/Documents/Levi-practice-task/paper_slides/code/online_appendix.tex"`
@@ -276,6 +275,6 @@ Transcript written on ../latex_auxiliary_dir/online_appendix.log.
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2024-07-10 18:28:43
+Makelog ended: 2024-07-11 13:50:15
 Working directory: /Users/kiefer/Documents/Levi-practice-task/paper_slides
 --------------------------------------------------------------------------------

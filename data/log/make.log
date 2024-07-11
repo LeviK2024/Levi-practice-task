@@ -1,13 +1,10 @@
 --------------------------------------------------------------------------------
-Makelog started: 2024-07-10 19:06:11
+Makelog started: 2024-07-11 13:50:05
 Working directory: /Users/kiefer/Documents/Levi-practice-task/data
 --------------------------------------------------------------------------------
 Input links successfully created!
 External links successfully created!
 Source logs successfully written!
-WARNING! The following target files have been modified according to git status:
-/Users/kiefer/Documents/Levi-practice-task/raw/tv.csv
-/Users/kiefer/Documents/Levi-practice-task/raw/chips.csv
 Version logs successfully written!
 Executing command: `python  "/Users/kiefer/Documents/Levi-practice-task/data/code/merge_data.py" `
 Executing command: `python  "/Users/kiefer/Documents/Levi-practice-task/data/code/clean_data.py" `
@@ -30,6 +27,6 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2024-07-10 19:06:14
+Makelog ended: 2024-07-11 13:50:08
 Working directory: /Users/kiefer/Documents/Levi-practice-task/data
 --------------------------------------------------------------------------------
