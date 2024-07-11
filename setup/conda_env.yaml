@@ -1,4 +1,4 @@
-name: template #CHANGE for your project
+name: Levi-practice-task #CHANGE for your project
 channels:
   - conda-forge
 dependencies:
