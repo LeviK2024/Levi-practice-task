@@ -1,4 +1,4 @@
 destination | source
-input/lib | /Users/shiqiyang/Documents/github_folders/template/lib
-input/tv.csv | /Users/shiqiyang/Documents/github_folders/template/raw/tv.csv
-input/chips.csv | /Users/shiqiyang/Documents/github_folders/template/raw/chips.csv
+input/lib | /Users/kiefer/Documents/Levi-practice-task/lib
+input/tv.csv | /Users/kiefer/Documents/Levi-practice-task/raw/tv.csv
+input/chips.csv | /Users/kiefer/Documents/Levi-practice-task/raw/chips.csv

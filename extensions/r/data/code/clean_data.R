@@ -12,7 +12,7 @@ main <- function() {
 plot_data <- function(df) {
   plt <- 
     ggplot(df, aes(x = chips_sold)) + 
-    geom_histogram()
+    geom_histogram(aes(y = after_stat(chips_sold/sum(chips_sold))))
   
   ggsave('output/chips_sold.pdf')
 }
